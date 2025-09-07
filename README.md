@@ -1,5 +1,5 @@
 # ACESTMPOSE
-PCB design and firmware development of a simple MCU board with sensors and peripherals. This design was completely based on Philip Salmony tutorial you can find [here](https://www.youtube.com/watch?v=gFmm91c_mr8&list=PL3aaAq2OJU5FdyG8e1wjMVJ9t68w8QvJ7&index=8)
+PCB design and firmware development of a simple MCU board with sensors and peripherals. This design was completely based on **Philip Salmony tutorial** you can find [here](https://www.youtube.com/watch?v=gFmm91c_mr8&list=PL3aaAq2OJU5FdyG8e1wjMVJ9t68w8QvJ7&index=8)
 
 ## Hardware
 
